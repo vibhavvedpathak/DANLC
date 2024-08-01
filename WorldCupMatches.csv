@@ -857,5 +857,7 @@ Year,Datetime,Stage,Stadium,City,Home Team Name,Home Team Goals,Away Team Goals,
 ,,,,,,,,,,,,,,,,,,,
 ,,,,,SUM of Home Team Goals,1543,,,"Stadium Attendence
 ",45164.8,,,,,,,,,
-,,,,,MIN Number of Home Team Goals,0,,,,,,,,,,,,,
+,,,,,MIN Number of Home Team Goals,0,,,"Count
+ of Half Time Home Goals
+",,,,,,,,,,
 ,,,,,MAX Number of Away Team Goals,7,,,,,,,,,,,,,
